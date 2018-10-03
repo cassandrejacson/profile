@@ -1,0 +1,88 @@
+body {
+  background-color: white;
+  color: #a6aa9c;
+  font-family: arial, sans-serif;
+  letter-spacing: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #a6aa9c;
+}
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+p {
+  /*text-align: justify;*/
+  text-align: top;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+
+div {
+  text-align: center;
+  background: #f5efe3;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 100px;
+  margin-bottom: 25px;
+}
+
+.image-project {
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card-center {
+  padding: 50px;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  width: 900px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+h2 {
+  padding: 30px;
+  margin-top: 10px;
+}
+
+
+h1 {
+  color: #851e52;
+
+}
+
+.btn {
+    background-color: #bca3ca;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 50px ;
+}
+
